@@ -152,10 +152,10 @@ header i{
   margin-bottom: 30px;
   align-items: flex-start;
 }
-.location i{
+/* .location i{
   font-size: 22px;
   margin: 4px 5px 0 0;
-}
+} */
 .weather-part .bottom-details{
   display: flex;
   width: 100%;
