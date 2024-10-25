@@ -131,14 +131,14 @@ header i{
   font-weight: 500;
   font-size: 72px;
 }
-.weather-part .temp .numb{
+/* .weather-part .temp .numb{
   font-weight: 600;
 }
 .weather-part .temp .deg{
   font-size: 40px;
   display: block;
   margin: 10px 5px 0 0;
-}
+} */
 .weather-part .weather{
   font-size: 21px;
   text-align: center;
